@@ -1,0 +1,4 @@
+source:hyderabad destination:banglore date:12 available:2 Prices:1000-20000
+source:banglore destination:delhi date:1 available:12 prices:15000-20000
+source:chennai destination:hyderabad date:20 available:20 prices:3000-4000
+source:hyderabad destination:banglore date:24 available:2 Prices:1300-20000
